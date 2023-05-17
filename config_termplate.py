@@ -1,1 +1,1 @@
-APIKEY="aqui agrege su apikey"
+APIKEY = DCB58849-C53D-4165-AEE0-936AFDC8ECF2 
